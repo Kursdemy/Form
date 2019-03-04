@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    background-image: url("https://images.unsplash.com/photo-1503197979108-c824168d51a8?ixlib=rb-0.3.5&q=99&fm=jpg&crop=entropy&cs=tinysrgb&w=2048&fit=max&s=d869a223ff92cd214c7a207e61b827eb");
+}
+
+img {
+    height: 110px;
+    width: 120px;
+}
+
+.container { 
+  padding: 1em;
+  border: 1px solid rgb(252, 233, 233);
+  border-radius: 1em;
+  background-color: #f2f1f7; 
+}
+
+
+.title {
+  width: 180px;
+  margin: auto;
+}
+
+.main-form {
+  width: 450px;
+  margin: auto;
+}
